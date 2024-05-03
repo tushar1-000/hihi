@@ -1,5 +1,0 @@
-Hi I am file name 'Tushar'
-Adding the 2nd line.
-Adding the 3rd line.
-In the 4th line I will tell you that I have added another file tarun.txt which I will forget to add in my stagin area.
-I am writing in multiple lines.
